@@ -1,0 +1,85 @@
+---
+booktitle: Proceedings of The 13th Asian Conference on Machine Learning
+shortname: ACML
+sections:
+- name: Preface
+  title: Preface
+- name: Contributed Papers
+  title: Contributed Papers
+volume: '157'
+year: '2021'
+start: 2021-11-17
+end: 2021-11-19
+published: 2021-11-28
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: ACML-2021
+month: 0
+cycles: false
+bibtex_editor: Balasubramanian, Vineeth N and Tsang, Ivor
+editor:
+- given: Vineeth N
+  family: Balasubramanian
+- given: Ivor
+  family: Tsang
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The 13th Asian Conference on Machine Learning
+    Held in Virtual on 17-19 November 2021
+
+  Published as Volume 157 by the Proceedings of Machine Learning Research on 28 November 2021.
+
+  Volume Edited by:
+    Vineeth N Balasubramanian
+    Ivor Tsang
+
+  Series Editors:
+    Neil D. Lawrence
+    * Mark Reid
+date_str: 17--19 Nov
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v157"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v157
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v157
+email: ''
+conference:
+  name: Asian Conference on Machine Learning
+  url: http://www.acml-conf.org/2021/
+  location: Virtual
+  dates:
+  - 2021-11-17
+  - 2021-11-18
+  - 2021-11-19
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v157/acml21.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v157/acml21.bib
