@@ -15,9 +15,9 @@ lastpage: xiii
 page: i-xiii
 order: 0
 cycles: false
-bibtex_author: Balasubramanian, Vineeth N and Tsang, Ivor
+bibtex_author: Balasubramanian, Vineeth N. and Tsang, Ivor
 author:
-- given: Vineeth N
+- given: Vineeth N.
   family: Balasubramanian
 - given: Ivor
   family: Tsang
